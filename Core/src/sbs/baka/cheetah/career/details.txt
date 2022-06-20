@@ -1,0 +1,10 @@
+Career stuff
+
+Current job - name, details, requirements, etc
+past jobs
+work schedule
+hours this week
+Quickly parse schedule
+Fetch schedule if possible
+Coworkers
+Boss

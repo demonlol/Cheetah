@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectTreeColorHighlighter">
+    <files>
+      <node color="1" path="$PROJECT_DIR$/Core/src/sbs/baka/cheetah/academics" />
+      <node color="1" path="$PROJECT_DIR$/Core/src/sbs/baka/cheetah/aleks" />
+      <node color="1" path="$PROJECT_DIR$/Core/src/sbs/baka/cheetah/analytics" />
+      <node color="2" path="$PROJECT_DIR$/Core/src/sbs/baka/cheetah/audio" />
+      <node color="1" path="$PROJECT_DIR$/Core/src/sbs/baka/cheetah/bluetooth" />
+      <node color="1" path="$PROJECT_DIR$/Core/src/sbs/baka/cheetah/calendar" />
+      <node color="2" path="$PROJECT_DIR$/Core/src/sbs/baka/cheetah/canvas" />
+      <node color="1" path="$PROJECT_DIR$/Core/src/sbs/baka/cheetah/cheatmode" />
+      <node color="1" path="$PROJECT_DIR$/Core/src/sbs/baka/cheetah/chrono" />
+      <node color="7" path="$PROJECT_DIR$/Core/src/sbs/baka/cheetah/edgenuity" />
+      <node color="1" path="$PROJECT_DIR$/Core/src/sbs/baka/cheetah/editor" />
+      <node color="1" path="$PROJECT_DIR$/Core/src/sbs/baka/cheetah/email" />
+      <node color="1" path="$PROJECT_DIR$/Core/src/sbs/baka/cheetah/erotica" />
+      <node color="1" path="$PROJECT_DIR$/Core/src/sbs/baka/cheetah/feature" />
+      <node color="1" path="$PROJECT_DIR$/Core/src/sbs/baka/cheetah/finance" />
+      <node color="1" path="$PROJECT_DIR$/Core/src/sbs/baka/cheetah/goals" />
+      <node color="2" path="$PROJECT_DIR$/Core/src/sbs/baka/cheetah/gui" />
+      <node color="6" path="$PROJECT_DIR$/Core/src/sbs/baka/cheetah/gui/PaperEditorFeature.java" />
+      <node color="1" path="$PROJECT_DIR$/Core/src/sbs/baka/cheetah/hotkey" />
+      <node color="2" path="$PROJECT_DIR$/Core/src/sbs/baka/cheetah/log" />
+      <node color="1" path="$PROJECT_DIR$/Core/src/sbs/baka/cheetah/mathmatics" />
+      <node color="2" path="$PROJECT_DIR$/Core/src/sbs/baka/cheetah/misc" />
+      <node color="1" path="$PROJECT_DIR$/Core/src/sbs/baka/cheetah/note" />
+      <node color="1" path="$PROJECT_DIR$/Core/src/sbs/baka/cheetah/notification" />
+      <node color="1" path="$PROJECT_DIR$/Core/src/sbs/baka/cheetah/phone" />
+      <node color="1" path="$PROJECT_DIR$/Core/src/sbs/baka/cheetah/planner" />
+      <node color="3" path="$PROJECT_DIR$/Core/src/sbs/baka/cheetah/plugins" />
+      <node color="1" path="$PROJECT_DIR$/Core/src/sbs/baka/cheetah/preferences" />
+      <node color="1" path="$PROJECT_DIR$/Core/src/sbs/baka/cheetah/profile" />
+      <node color="1" path="$PROJECT_DIR$/Core/src/sbs/baka/cheetah/reminder" />
+      <node color="1" path="$PROJECT_DIR$/Core/src/sbs/baka/cheetah/scheduler" />
+      <node color="1" path="$PROJECT_DIR$/Core/src/sbs/baka/cheetah/setup" />
+      <node color="3" path="$PROJECT_DIR$/Core/src/sbs/baka/cheetah/social" />
+      <node color="1" path="$PROJECT_DIR$/Core/src/sbs/baka/cheetah/social/attraction" />
+      <node color="1" path="$PROJECT_DIR$/Core/src/sbs/baka/cheetah/social/confidence" />
+      <node color="1" path="$PROJECT_DIR$/Core/src/sbs/baka/cheetah/social/manipulation" />
+      <node color="10" path="$PROJECT_DIR$/Core/src/sbs/baka/cheetah/social/media" />
+      <node color="1" path="$PROJECT_DIR$/Core/src/sbs/baka/cheetah/social/partner_profiles" />
+      <node color="1" path="$PROJECT_DIR$/Core/src/sbs/baka/cheetah/social/relationships" />
+      <node color="3" path="$PROJECT_DIR$/Core/src/sbs/baka/cheetah/storage" />
+      <node color="1" path="$PROJECT_DIR$/Core/src/sbs/baka/cheetah/storage/backup" />
+      <node color="1" path="$PROJECT_DIR$/Core/src/sbs/baka/cheetah/storage/cache" />
+      <node color="3" path="$PROJECT_DIR$/Core/src/sbs/baka/cheetah/storage/filesys" />
+      <node color="1" path="$PROJECT_DIR$/Core/src/sbs/baka/cheetah/storage/settings" />
+      <node color="1" path="$PROJECT_DIR$/Core/src/sbs/baka/cheetah/study" />
+      <node color="1" path="$PROJECT_DIR$/Core/src/sbs/baka/cheetah/theme" />
+      <node color="5" path="$PROJECT_DIR$/Core/src/sbs/baka/cheetah/usb" />
+      <node color="4" path="$PROJECT_DIR$/Core/src/sbs/baka/cheetah/util" />
+      <node color="1" path="$PROJECT_DIR$/Core/src/sbs/baka/cheetah/video" />
+      <node color="1" path="$PROJECT_DIR$/Core/src/sbs/baka/cheetah/wishlist" />
+      <node color="1" path="$PROJECT_DIR$/Core/src/sbs/baka/cheetah/work" />
+    </files>
+    <colors>
+      <color id="1" value="#ff1228" name="Color 1" enabled="true" />
+      <color id="2" value="#ff5800" name="Color 2" enabled="true" />
+      <color id="3" value="#b7a100" name="Color 3" enabled="true" />
+      <color id="4" value="#7aac00" name="Color 4" enabled="true" />
+      <color id="5" value="#0c9300" name="Color 5" enabled="true" />
+      <color id="6" value="#2b00f3" name="Color 6" enabled="true" />
+      <color id="7" value="#00e969" name="Color 7" enabled="true" />
+      <color id="8" value="#1e1e1e" name="Color 8" />
+      <color id="9" value="#ff1d00" name="Color 9" />
+      <color id="10" value="#e97fc5" name="Color 10" enabled="true" />
+    </colors>
+    <option name="marksForCollapsedHighlights" value="Dots" />
+  </component>
+</project>

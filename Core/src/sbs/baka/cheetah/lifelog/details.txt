@@ -1,0 +1,6 @@
+A logger
+
+For things like food and drink intake
+
+Create different logs for different things. Think of creating a JTable when creating a new log
+

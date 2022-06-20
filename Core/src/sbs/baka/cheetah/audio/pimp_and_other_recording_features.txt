@@ -1,0 +1,27 @@
+Buttons:
+    Recording
+        Start/Stop
+    Playback:
+        Play/Pause
+        Skip forward and backward 5, 10, 30 seconds < << <<< > >> >>>
+        Shuffle
+        Previous
+        Next
+        Volume / Gain
+        Mini player - interactive always on top dialog
+        Speed
+        Equalizer
+        Properties: Title, Artists, Album, Album Artist, Track, Length, Genre, Year, Bit rate, Item type (mp3, wav), File location
+        Cast to a device
+Sidebar:
+    Home
+    Default Library
+    Add Library...
+
+    Queue
+    Playlists...
+    Create new playlist...
+
+Audio visualizer? Somehow...
+
+Hook in with

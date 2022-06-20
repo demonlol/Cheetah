@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="consulting.freiheitsgrade.patched.commons.configuration2" type="repository">
+    <properties maven-id="consulting.freiheitsgrade.patched:commons-configuration2:2.7" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/consulting/freiheitsgrade/patched/commons-configuration2/2.7/commons-configuration2-2.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

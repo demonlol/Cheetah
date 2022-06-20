@@ -1,0 +1,630 @@
+Sptofiy ad interceptor? Reroute the request to the application to "play" it?
+
+
+
+
+
+
+
+
+
+
+
+
+Galazeek / Malazeek
+
+Async-a-zeek? Async-a-zinc? Async-a-wink? Async-a-link? Async-a-think? Async-a-blink?
+Multizeek
+Chronozeek
+Cosmozeek
+Cosmizeek
+Unizeek
+Biozeek
+
+Custom
+Function
+
+DeadPeopleSoon (DPS)
+TheDottedSpeck
+Winnie / Winny / Wyni
+Venom
+Viper
+Fang
+Fangatang
+Ofangatang
+Pokerface
+Poker
+Eeyore / EEYORE / eeYORE
+Universe
+Cosmo / Cosmic
+Chrono
+Multi - Asynchronous - Asynchrono
+Digital Servant
+
+Webcam Lib - https://github.com/sarxos/webcam-capture
+
+Create android emulator with command line | Imagine if we could...idk snapchat it or something
+
+COM serial port communicator
+	- https://blog.henrypoon.com/blog/2011/01/01/serial-communication-in-java-with-example-program/
+	- https://stackoverflow.com/a/901015
+
+
+Bunch of useful website implementations (if complicated) or inspired ones (that are easy to implement natively)
+	Examples: https://www.wordmom.com/adjectives/that-start-with-p
+			  https://grammar.yourdictionary.com/parts-of-speech/adjectives/adjectives-that-start-with-p.html
+			  https://grammar.yourdictionary.com/parts-of-speech/adjectives/adjectives-that-start-with-i.html
+			  https://grammar.yourdictionary.com/grammar/word-lists/nouns-that-start-with-p.html
+
+
+	Add a bunch of random implementations from websites
+	Like there are so many
+
+P.I.M.P (Personal Intelligent Music Precache) Player
+	- Plays
+	- Syncs with server when we get one lmao
+
+Pourn Proxy - Ultimate pourn proxy player so everything goes to plan.
+	- No Ads   - Output Device   - Volume is configurable (always start at 0)   - Fullscreen   - Favorited video cache
+	- Works like P.I.M.P except uses the hub for videos
+
+
+
+Days Until/End Of…
+- E.O.S (end of semester)
+- E.O.W (end of week)
+- E.O.M (end of month)
+- E.O.Y (end of year)
+- E.O.C (end of college? Idk when)
+- E.O.D (end of day; midnight?)
+
+X Symbols Copy and Paste ⓧ ⒳ ✖ ✗ ✘ ẋ ☠ ẍ x Ẍ - i2Symbol
+✰⋆🌟✪🔯✨
+
+Scenario:
+	I know none of the questions on the test or quiz
+	I communicate with my client somehow so it sends all of what im typing either in the moment like traditional keylog
+	Or instead of sending foreach indivudla char, we can signal when we are done or still typing.
+	Seems like an overlay would have to be present
+
+Potential problem: When a certain time has passed while the program was offline: give it a query variable which tells us the last time it was queried? Or do we check at what times the program was offline and figure it that way? Idk, this shouldn't be too hard to do once its in code
+
+Math Helper:
+	CollegeCalcuator    CollegeCreditsCaluations    Solve Same Problem Different easily
+	MathWay either using ocr, copy/paste, or a selection screenshot
+	MathWay has a combobox for what's expected to be done to the equation
+	This can easily be coded for problems asking you to “evaulate” or “simplify”
+		But not for graphing and such…
+		The more I think about this, the more I think an extension or GM/TM script
+		will suffice much better and have way more control over answer input.
+		We want the work too…
+Any way we can add the website in java? Selenium java library lol?
+
+GUI console log for gui
+
+Any way we can add the script via java (like when we go in to take a quiz/test and can quickly install the extension)
+YouTube But Its Like Spotify (like musi w/ equalizer) (no ads)
+Any way we can port forward our router to proxy my requests (built in and free vpn)
+Any way we can play YouTube videos in java?
+Any way we can get recommended YouTube videos in java?
+Any way we can download/cache them for later?
+Anyway we can search for youtube videos or scroll
+
+🌟 Paper Editor (basically google docs w some tweaks)
+	Word Processor:
+		a background thread may check spelling and grammar
+		a foreground thread processes user input (keystrokes)
+		a third thread loads images from the hard drive
+		a fourth does periodic automatic backups of the file being edited
+
+🌟 Classes -> Grades -> Assignment Graph + Timeline
+
+🌟 Schedule (+ Assignments + Reminders + Notes? + Classes) -> Timeline
+	Show day 1am-12:59pm (initial drawing that I liked)
+		Show what time it is with line in real time [scroll in to zoom, out to unzoom]
+		Show classes / work
+		Show assignments?
+	Show week Sun-Sat?
+Per-Module JMenus:
+Bioclient >
+	Restart…
+Reload…
+Reset…
+	Invalidate Caches…
+	Clear Caches… (0kb)
+	Clear Temp… (0kb)
+	Settings…
+
+Ghostman (Postman except)
+
+Charles: Request Code Conversion
+	- Take all the data charles has about a requests and put it all into immediate runnable code (because its annoying)
+
+Account >
+	//Account found
+	🔒 tylcheek > [portion of username is obfuscated like ****]
+		Uptime: 0h0m0s Total Uptime: 0h0m0s
+		Downtime: 0h0m0s Total Downtime: 0h0m0s
+		Created: {date} / {duration_since_datetime}
+		Last Login: {last_login_datetime}
+		Latest Activity Logs >
+			[CANVAS_LINK] - User tcheek02 synced via access token
+			[CREATE_SEMESTER] …
+{spring/fall/summer} {year} {duration_since_datetime}
+			[ADD_CLASS] …
+		[CREATE_PROFILE] …
+			[AUTH_REQUIRED] - Authentication required. Navigate to Account, then
+		[TRY_WIN_ADMIN] - FAILED via OS authentication
+			[LOGIN_FAIL] - Invalid username or password credentials.
+			[PROGRAM_START]
+	//Account not found?
+
+heartland2022 >
+Profiles are intended to be used to jump back and forth between profiles containing unique
+circumstantial analytic data to give a good impression of time lapse and to give the journey’s some
+scale. For instance, future versions I hope will support the analysis of slightly outdated–yet
+ insightful–profile analytics.
+	 🔘 Reset profile…
+	 ➕ New profile…
+		 ⛔ Delete profile…
+ 🚪 Logout of profile…
+  ♺  Switch profile >
+	 ✏️ Modify profile >
+	Security >
+		Hash >
+			Hash text…
+			Hash file… https://stackoverflow.com/questions/304268/getting-a-files-md5-checksum-in-java
+			Hash folder…
+		Encryption >
+Encrypt text…
+			Encrypt a file…
+			Encrypt a folder…
+		Authentication > [ module unlocked=🔓 module locked=🔒 ]
+			[ ⚫= no auth ⛔ = auth required / unauth’ed ✅= authed ]
+			🔒 Disable
+	🔒 Set pin … [******] [if pin is null, then prompt for pass]
+	🔒 Set key combo… [Up,Down,Up,Down]
+	🔒 AuthManager … [expire time, closed/sleep, hotkey/btn]
+		Refresh session every __:__ [HH:MM]
+		StartModule ☑ >
+			[ ACTION #1 ☑ ] [ ACTION #2 ☑ ] [ ACTION #3 ☑ ]
+	🔒 Require auth for these modules >
+…Module ✓
+…Module ✓
+…Module ✖
+…Module ✓
+🔒Ask >
+	☑ Never
+	☑ Always
+	☑ After 'X' [minute(s), hour(s), day(s)] [idle? If so, how long?]
+	☑ After restart
+		Unauthorized Access >
+☑ After 'X' failed attempts >
+			☑ Blacken screen (awaiting correct passcode)
+			☑ Lock mouse
+			☑ Lock keyboard
+		☑ [Sleep. restart, or shutdown]
+	☑ Detect and store webcam motion movement/activity
+		☑ Audio
+		☑ Prompt auth if motion detected and not authorized
+		☑ Has video 30s before and/or after an incident
+	☑ Detect and save webcam photo
+	☑ Play audio file…
+		Volume: [1-100%] | Output Device: [DEFAULT] | Audio File: C:\
+☑ Add jumpscare that triggers from a m/kb event. Make sure to record their reaction
+
+Assignments > [Requires CanvasAPI for some implementation ideas]
+CanvasAPIError: [offline] failed to locate account
+	NotificationsAPIError: [offline] failed to locate notifications api
+	AuthenticationAPIError: [offline] failed to locate authentication api
+File Directory > [default abstract thing for all modules in the jmenu]
+Copy to clipboard…
+Open in explorer…
+Assignment Cache > [for if canvaspaierror shows up]
+	Last Scan: {date}
+	Last Updated: {date}
+	Size: {assignment_cache_folder}.length()
+	Clear >
+		Clear All…
+		Clear Completed…
+Print all courses… [dbg]
+Print all assignments… [dbg]
+Print missing assignment… [dbg]
+
+Hotkey > [hotkeys implemented for most if not all other lil features]
+
+Record > [There’s multiple meanings… like record key strokes, record elapsed
+     time, record idle time, ]
+Add multiple audio S-T-T / transcribers to see which works best?
+Recording Output >
+	Recording Path … C:\Users\Desktop\Recordings
+	No Active Recordings
+	1 Active Recording(s) >
+		1h 32m 11s >
+			Edit… [will need to create video and audio editor]
+			Save and stop…
+			Delete…
+	New >
+		Audio only…
+		Webcam only…
+		Webcam and audio…
+		Other >
+			Keystrokes…
+			Idle time…
+			Elapsed time [timer]
+Transcription >
+	☑ UltiScribe
+	☑ MultiScribe
+
+Audio Editor >
+	You can use AudioInputStream and its AudioFileFormat member (which contains an AudioFormat instance) to know what to
+	write (format, sample rate), you can use AudioSystem to write it.
+    Based on the sample rate of the format you can find out how many bytes of audio are 2 seconds, and go on a loop of
+    reading that many bytes from the AudioInputStream, writing them to a new file.
+
+	https://stackoverflow.com/questions/55237172/split-wav-files-based-on-silence-in-java
+	https://stackoverflow.com/questions/37400771/java-audioinputstream-cutting-a-wav-file
+
+	Adjust Master Gain
+		AudioInputStream audioInputStream = AudioSystem.getAudioInputStream(
+            new File("some_file.wav"));
+        Clip clip = AudioSystem.getClip();
+        clip.open(audioInputStream);
+        FloatControl gainControl =
+            (FloatControl) clip.getControl(FloatControl.Type.MASTER_GAIN);
+        gainControl.setValue(-10.0f); // Reduce volume by 10 decibels.
+        clip.start();
+    Adjust Speakers Volume - https://stackoverflow.com/a/17502340
+    Drawing Waveform - https://stackoverflow.com/questions/12879210/how-can-i-draw-sound-data-from-my-wav-file
+
+
+
+
+Notes >
+	CanvasAPIError: [offline] failed to locate canvas api
+	NotificationsAPIError: [offline] failed to locate notifications api
+	AssignmentAPIError: [offline] failed to locate assignment api
+
+	☑ Sound
+Output Device: DEFAULT
+	New >
+	class Note: bSticky sSubject, sDescription, courseObj, sMediaFilePath
+(png/wav/mp3),
+sTextFilePath, ldateCreated, lLastEdited
+class NoteFactory {} //for creating these notes. Maybe. Might not need constructors fine
+too
+	enum NoteType: TXT, IMG, WAV, MP3, IMG_TXT,  WAV_TXT, MP3_TXT
+		Text note… [Text notes should support media recognition types like:]
+@assingment [AssignmentAPIError]
+@url:https…
+@file:C:\...
+@filetype=[img, audial, zip, txt, docx, doc, yml]}]
+@course:{course_id}
+@due:{due date} [if implemented by a calendar might cause issues]
+@priority:{low 1 - 5 high}
+@email:{tcheek02@my.heartland.edu}
+@java:{/* java code? */}
+@notifications:{desktop=true, email=true}
+@sticky:true
+@subject:””
+@desc=””
+@courseId=9342
+@mediaFile=””
+@txtFile=””
+@created=234567890987
+@lastEdited=9876543534534
+		Image note… [objFile, screenshot]
+		Audial note… [objFile, bAudio, bWebcam]
+
+Templates > [reading doc, writing doc]
+	Working Directory > Open… Copy… Modify…
+Open/Import (.tmpt)…
+	Create a new template…
+	Delete a template…
+	“MLA”  > Preview, Modify, Export
+	`“APA” > Preview, Modify, Export
+	Local History >
+	Open Recent >
+
+File
+	New >
+		Empty document…
+
+…
+Paper Templates > [Have it work like IntelliJ has the fori-TAB-loop autocompletion. its like its indexed]
+	Refresh…
+	————————
+	“MLA” document…
+	“APA” document…
+Open...
+	Open Recent >
+	Working Directory >
+		Open...
+		Copy...
+		Modify...
+	Settings...
+	Local History >
+	Reload All from Disk…
+
+	Storage >
+		Working Directory...
+			Open in explorer...
+			Copy to clipboard...
+		Cache >
+
+	Invalidate Caches… //When the client requests the affected content, the latest version is returned.
+	Clear Caches… (0kb)
+	Clear Temp… (0kb)
+	——————————————————————————————————————————
+	Restart...
+	Exit...
+
+——————————————————————————————————————————
+
+Edit
+	Account...
+	Profile...
+	Security >
+		Authentication > [ module unlocked=🔓 module locked=🔒 ]
+	🔒 Set pin … [******] [if pin is null, then prompt for pass]
+
+	🔒 Require auth for modules: > [how this works depends on how jmenu is implemented in modules]
+		StartModule ☑ >
+			[ ACTION #1 ☑ ] [ ACTION #2 ☑ ] [ ACTION #3 ☑ ]
+☑ After 'X' failed attempts >
+			☑ Blacken screen (awaiting correct passcode)
+			☑ Lock mouse
+			☑ Lock keyboard
+	☑ [Sleep. restart, or shutdown]
+	☑ Save video
+		☑ Has video 30s before and/or after an incident
+	☑ Capture webcam photo
+	☑ Play audio file…
+		Volume: [1-100%]
+		Output Device: [DEFAULT]
+		Audio File: C:\
+	☑ Play text-to-speech w/ relevant placeholders
+		Placeholders: {attempt_count}
+		Volume: [1-100%]
+		Output Device: [DEFAULT]
+
+		Add Audio [absolute path, ms delay]
+		Audio >
+			Default Volume: 100%
+			Add audio… [ file, delay, volume, repeat, device ]
+			Add TTS…   [ voice, text, delay, volume, repeat, device ]
+                                   ————————————————————————————————
+			[ C:\Users\Tyler\Security\woopwoop.mp3, 0, 100, true ]
+Edit…
+Delete…
+Move ↑…
+Move ↓…
+			[ C:\Users\Tyler\Security\woopwoop.mp3, 0, 100, true ]
+				[ Edit ] [ Del ] [ Move ↑ ] [ Move ↓ ]
+
+*Ask Again >
+	☑ Always
+	☑ After 'X' [minute(s), hour(s), day(s)]
+	☑ After restart
+	☑
+*Prompt passcode for the following scenarios, features and modules >    [* = passcode protected]
+	**Restore all to default... [** = ignore auth after ]
+	Scenarios >
+		After every restart ☑
+		After
+	Features >
+	Modules >
+	*Paper Editor
+	*Profile
+	Settings
+	Working Directory
+——————————————————————————————————————————
+View
+	Theme >
+	    FlatLafDracula
+		FlatLafLight
+        Custom...
+	Window >
+		Notifications >
+			CLose First
+			CLose All
+	Module/Tool Windows >
+		...
+	Appearance
+		Quick Definition
+		Quick Synonym
+		Quick Antonym
+
+		Enter Presentation Mode
+        Enter Distraction Free Mode
+        Enter Full Screen
+
+        Main Menu
+        Toolbar
+        Navigation Bar
+		Tool Window Bars
+		Status Bar
+		Details in Tree View
+		Members in Navigation Bar
+	Active Editor >
+		Hide All Tool Windows.
+		Hide Side Tool Windows
+		Hide all Windos
+
+
+Updates [auto update]]
+
+
+——————————————————————————————————————————
+Tools
+	Web Manipulation                                                                [built-in, mini postman]
+		Request >
+
+——————————————————————————————————————————
+
+
+——————————————————————————————————————————
+3rd Party Apps
+	Canvas – null tcheek02 >
+	throws errorgourgr
+		[if user is already LINKED, then just display an unlink button, otherwise display a link btn]
+			getBasicInformation() - name, gender/sex, race, email, courses, enrollment
+			getSemesterBill() - semester class data w/ teachers, credit hours, cost, refund
+			getAnnouncements() -
+			getAllAssignments(boolean late) -
+			getAssignmentsForCourse(int iCourseID, boolean late) -
+			getProfilePicture() -
+			getCourseInformation(int iCourseID) - like all the sidebar links
+			getModuleObjects(int iCourseID) - all [link,discussion,announcement,assignment]
+			getTeacherOfCourse(int iCourseID) -
+		                        ———————————————————————————————————
+			[if user is linked yes show options below, but ]
+			🔒 Edit … (i.e. info, oauth2 key, access token, credentials),
+			 Logout ...
+				Gmail – tcheek02@my.heartland.edu
+			[if user is linked yes, else none of these if otherwise]
+			                        ———————————————————————————————————
+		ALEKS > – tylcheek15
+	Link...
+	                        ———————————————————————————————————
+		if user is linked yet, none of these if otherwise
+
+	TCHEEK02 >
+			View >
+	Teacher(s)...
+	Assignments >
+		Due Today...
+		Upcoming...
+		Overdue...
+		All...
+
+——————————————————————————————————————————
+Inbox
+	Phone >
+		Notifications >
+			Snapchat...
+			Telegram...
+			ProtonMail...
+		Texts >
+		Voicemails >
+		Calls >
+		Missed Calls >
+		+1 217-870-5835
+	Canvas >
+	Email >
+		tch*****@my.heartland.edu >
+		flu********@gmail.com >
+		the*************@gmail.com >
+——————————————————————————————————————————
+
+———————
+Classes                                                                     [pull up classes window? maybe.]
+——————————————————————————————————————————
+
+	English... //
+		Color...
+		Work >
+			Disucssion Board 1
+			Assignment #22
+			Mark it
+			Mark Completed
+			Grades (A-F 0-100)
+	History...
+	Math...
+	Art...
+
+——————————————————————————————————————————
+Assignments
+——————————————————————————————————————————
+
+Schedule
+	Scheduler Cross Linkage
+	Calendar >
+		Clear ALL entries…
+		Reset calendar …
+		Edit d…
+	New >
+		Schedule…
+		Event…	New >
+              		Profile
+              		Institution
+              		Semester
+              		Term	New >
+                        		Profile
+                        		Institution
+                        		Semester
+                        		Term
+		Reminder…
+Daily >
+	Every "1" day(s)...
+Weekly >
+	Every " week(s)...
+Biweekly >
+			Every "1" fortnight(s)...
+		Monthly >
+	Every "1" month(s)...
+		Event >
+
+——————————————————————————————————————————
+Reminders >\	New >
+            		Profile
+            		Institution
+            		Semester
+            		Term
+		Remind me the [Hour(s), Day(s), Week(s)] before ☑
+		Remind me every 'X' [Hour(s), Day(s), Week(s)] leading up ☑
+		Remind me everytime I >
+			Log in ☑
+			Type keywords >
+	Case sensitive ☑
+			Idle for 'X' [Second(s), Minute(s), Hour(s)]
+			Make a sound over 'X.xx' dB [mic required]
+		Remind me never ☑
+			Reminder...
+	——————————————————————————————————————————
+		Alarms
+			Create new alarm...               [name, media (.mp3 and .wav files/or urls, or youtube), device(s)]
+			My Alarms >
+	"LOUD ANNOYING ALARM" >
+		Modify...                                          [name, source, volume, repeating, snooze]
+		Delete...
+	——————————————————————————————————————————
+
+	Schedules >
+		"Default" >
+		"Work" >
+Enable/Disable...
+View...
+Edit...
+Delete...
+Configure >
+	Alarm >
+		Silence ☑
+		Sound File... [C:\\Users\\Tyler...]
+		Volume [0-100%]
+		Use Device >                                                             [priority 1-99]
+Speakers (High Definition Audio Device) [DEFAULT=0]
+onn. 1000 stereo [1st=1]
+onn. mini stereo [2nd=2]
+		"School" >
+Enable/Disable...
+View...
+Edit...
+Delete...
+Configure >
+	Alarm >
+		Silence ☑
+		Sound >
+File...                                                  [mp3, wav] [+includes urls]
+Video >
+	File...                                                               [mp4, avi]
+	YouTube...                                                                 [url]
+Profile
+	New >
+		Profile
+		Institution
+		Semester
+		Term
+Settings
+Help
+		*/

@@ -1,0 +1,173 @@
+Cheata
+	[Separate code by feature]
+	[Way to check for time?]
+		addForegroundTimer(Runnable, TimeUnit, Units) (e.g addTimer(() -> {}, TimeUnit.SECONDS, 10)
+		addBackgroundTimer(Runnable, TimeUnit, Units)
+
+
+
+	Canvas
+		Canvas login time spoofer?
+
+		CanvasListener
+			onNewAssignment(Course, Assignment)
+			onNewAnnouncement(Announcement)
+			onNewConversation(Conversation)
+			onNewConversationReply(Conversation)
+		Bunch of other user getters...
+		Assignment
+			Course(dependency injection)
+			Type{NEUTRAL = 0, QUIZ = 1, TEST = 2, EXAM = 3}
+			Created(long)
+			Due(long)
+			Title(string)
+			Body(string)
+			Rubric(string)
+			Points(int)
+			Late(boolean)
+			Duration(time) - time before due. -1 if late
+		abstract Note Object:
+			Date(long)
+			String(name)
+			String(filepath)
+			abstract <T extends InputStream> data()
+			Runnable capture() - ends if JDialog is closed or done taking note
+			Subclasses:
+				AudibleNote
+					@Override AudioInputStream data()
+				TextualNote
+					String getDataAsText()
+				PhotoNote
+					Image getDataAsImage()
+		Course Object:
+			Name
+			Credit Hours
+			sbs.baka.cheetah.Start Date, End Date
+			Teachers[]
+			Students[]
+			Assignments[]
+			Latest Activity
+			Notes[noteobj]
+			Grade
+				Points
+                TotalPoints
+                GPA
+                Weights
+			getMissingAssignments()
+			getActiveAssignments()
+	Aleks
+		MathWay Solver
+		Browser Ext/TamperMonkey solution
+	    - Keep logged in for long periods of time (time spoofer)
+        - [create/edit/save/mention or reference/remove] math notes
+            Created(date)
+            Search notes()
+            Name
+            Descriptions(date)
+            Subjects/Categories [folder and [rgb picker or lazy ig] color support]
+	Composition Editor
+		- Has overlay similar to LunarClient's
+		File
+			New
+				Document
+					Object:
+						Name
+						File
+							Path
+							Last Opened
+							Last Edited
+				Template
+					placeholders {class} {teacher} {date} {pgnum} {font} {margins} {line spacing}
+					MLA Document
+					APA Document
+			Open
+			Recently Opened
+		View
+			Statistics
+                Elapsed Time: [since created, since opened]
+                WPM
+                    Reset
+			Word Counter
+                Detect/Set Word Count
+		Tools
+			Cite
+				Create Citations
+			Spell Checker
+			Ant/Synonyms
+				Hotkey
+				Context Menu
+			Sentence Starters
+			Writing Phrases
+			Examples
+				Research paper, argumentative paper, etc...
+			Assignment Overlay
+				Viewer
+				Simplifier
+				Checklist
+				Rubric
+			Autosave
+		Help
+            sbs.baka.cheetah.Start paper from beginning to end
+            Header
+            Thesis
+            Intro
+            Body Paragraphs
+            Works Cited
+[less necessary features]
+	Cheat Mode
+		- Activated by running from usb
+		- Networking (e.g googling) should be done through VPN
+		- Discord-like overlay
+			Transparency[0-100]
+			Alt+Z Hotkey
+				Display Mode: Toggle, Hold
+		"Bunch of settings"
+		Hide/Show
+		Panic
+			Shut everything down until a certain condition is met
+	EzEmail
+		Accounts
+			Add New
+			Allow Notifications
+			Contacts
+                Contact Object: Email(string)*, Name(string), Importance({NONE = 1, LOW = 1, HIGH = 1, SEVERE = 1}), Color
+                (rgb)
+                Sync Contacts
+                    Canvas...
+                        Course...
+                            Teachers
+                            Students
+                View Contacts
+                    Create Contact
+                    Edit Contacts[i]
+                Get All Emails From Contact
+            Cache
+                Clear Cache
+			[allow multiple email accounts to exist. allow all inboxes at once, or just one]
+		Email Object
+			Contact(class)
+			Subject(string)
+			Body(string)
+			Sent(long)
+		EmailListener
+			onNewEmail(Contact, EmailObj)
+			onNewReply(Contact, EmailObj)
+	Notifications
+		Reminder
+			New Reminder
+			Reminders[]
+		Planner
+			New Plan
+			Plans[]
+		Scheduler
+			New Task
+			Tasks[]
+			ProcessBuilder execute command
+			Desktop.open(new URI('https://...'))
+		Settings
+			Location: TOP_LEFT, BOTTOM_LEFT, TOP_RIGHT, BOTTOM_RIGHT
+			/* Permissions: EzEmail, etc... */
+	Hotkey Interface
+        HotkeyFactory
+            Hotkeyables
+                Description(string), Action(string), Key(int), Modifiers(int)
